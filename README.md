@@ -4,7 +4,7 @@ description: >-
   konsep dasar dan fundamental dalam bahasa pemrograman Go (Golang).
 ---
 
-# # Golang Fundamentals
+# 🤩 # Golang Fundamentals
 
 ### Penulis
 
