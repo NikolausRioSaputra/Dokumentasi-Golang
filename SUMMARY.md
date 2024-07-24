@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Dokumentasi-Golang](README.md)
+* [# Golang Fundamentals](README.md)
+* [Page 1](page-1.md)
